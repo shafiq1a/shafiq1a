@@ -1,120 +1,129 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>My GitHub Profile</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      font-family: 'Roboto', sans-serif;
-      background-color: #0d1117;
-      color: #c9d1d9;
-      margin: 0;
-      padding: 0;
-    }
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
-    .container {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+  <a href="https://jacobcolvin.com">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+  </a>
+  <a href="https://stackoverflow.com/users/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-    .profile {
-      display: flex;
-      align-items: center;
-      gap: 20px;
-      margin-bottom: 40px;
-    }
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
 
-    .profile img {
-      border-radius: 50%;
-      width: 120px;
-      height: 120px;
-      border: 2px solid #30363d;
-    }
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
+- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-    .profile-info h1 {
-      margin: 0;
-      font-size: 28px;
-    }
+<br>
 
-    .profile-info p {
-      color: #8b949e;
-      margin-top: 5px;
-    }
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-    .social-links a {
-      margin-right: 15px;
-      color: #58a6ff;
-      text-decoration: none;
-      font-size: 16px;
-    }
+> Tools, languages, and other things that I like to work with.
 
-    .repos {
-      margin-top: 30px;
-    }
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Jsonnet
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
 
-    .repo-card {
-      background-color: #161b22;
-      border: 1px solid #30363d;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 15px;
-    }
+<h2 align="left">Coding Activity</h2>
 
-    .repo-card h3 {
-      margin: 0;
-      color: #58a6ff;
-    }
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
 
-    .repo-card p {
-      color: #8b949e;
-      margin: 5px 0 0;
-    }
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
 
-    @media (max-width: 600px) {
-      .profile {
-        flex-direction: column;
-        align-items: flex-start;
-      }
+```
+  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.4 hr  ┤│                                                                                                   
+  2204.4 hr  ┼╯                                                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
 
-      .profile img {
-        width: 100px;
-        height: 100px;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="profile">
-      <img src="https://avatars.githubusercontent.com/u/1?v=4" alt="Profile Picture" />
-      <div class="profile-info">
-        <h1>Shafik Ahmed</h1>
-        <p>Front-End Developer | JavaScript Enthusiast</p>
-        <div class="social-links">
-          <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
-        </div>
-      </div>
-    </div>
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
 
-    <div class="repos">
-      <div class="repo-card">
-        <h3>Weather App</h3>
-        <p>Simple weather forecast app using OpenWeatherMap API and JavaScript.</p>
-      </div>
-      <div class="repo-card">
-        <h3>Portfolio Website</h3>
-        <p>Personal portfolio with animations and responsive design using HTML/CSS/JS.</p>
-      </div>
-      <div class="repo-card">
-        <h3>Todo List</h3>
-        <p>A minimal and fast task manager using local storage.</p>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+<!-- links -->
 
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"
