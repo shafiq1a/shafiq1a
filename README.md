@@ -1,44 +1,38 @@
 # Hi there 👋
 
-I'm **Shafik Ahmed**, a junior **.NET Developer** passionate about building web applications with **ASP.NET Core MVC**, **Entity Framework Core**, and **SQL Server**. I enjoy writing clean, efficient code and learning something new every day.
+I'm **Shafik Ahmed**, a passionate **.NET Developer** who enjoys building scalable web apps and APIs using **C#** and **ASP.NET Core**. I love writing clean, maintainable code and always strive to improve my skills.
 
 ---
 
-## 🌱 What I’m Learning
+## 🛠️ Tech Stack
 
-* ASP.NET Core MVC & Web API
-* Entity Framework Core (Migrations, LINQ)
-* SQL Server basics
-* Git & GitHub
-
----
-
-## 🛠️ Tech Skills
-
-* **Languages:** C#, JavaScript
-* **Frameworks:** .NET, ASP.NET Core, Bootstrap
+* **Languages:** C#, SQL, JavaScript
+* **Frameworks & Libraries:** ASP.NET Core, Entity Framework Core, LINQ, Bootstrap
+* **Frontend Basics:** HTML5, CSS3, JS (ES6)
 * **Databases:** SQL Server, LocalDB
-* **Tools:** Git, GitHub, Postman
 
 ---
 
 ## 📌 Projects
 
-* **Gym Management System (In Progress)**
-  ASP.NET Core MVC + EF Core + SQL Server
-  Features: Manage members, subscriptions, trainers
-
-* **Task Tracker API**
-  CRUD Web API with Swagger documentation
-  Repo: [Task Tracker](https://github.com/shafiq1a/task-tracker-api)
+🚧 *Coming Soon…* 🚧
+Stay tuned for some cool projects I’m currently working on.
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafiq1a\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiq1a\&layout=compact\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=shafiq1a\&theme=tokyonight)
+
+---
+
+## 📬 Connect with Me
 
 * LinkedIn: [linkedin.com/in/shafiq1a](https://www.linkedin.com/in/shafiq1a)
 * Email: [shafiq.devv@gmail.com](mailto:shafiq.devv@gmail.com)
 
 ---
 
-⭐️ If you like my work, don’t forget to give a star to my repos!
+⭐️ Don’t forget to give a star to my repos if you like my work!
