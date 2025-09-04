@@ -27,9 +27,9 @@ I'm **Shafik Ahmed**, a passionate **.NET Developer** who enjoys building scalab
   <a href="https://www.linkedin.com/in/shafik-ahmed" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:shafik12040@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
+<a href="mailto:shafik12040@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="40" height="40"/>
+</a>
 </p>
 
 ---
