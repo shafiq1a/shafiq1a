@@ -6,27 +6,19 @@ I'm **Shafik Ahmed**, a passionate **.NET Developer** who enjoys building scalab
 
 ## 🛠️ Tech Stack
 
-* **Languages:** C#, SQL, JavaScript
-* **Frameworks & Libraries:** ASP.NET Core, Entity Framework Core, LINQ, Bootstrap
-* **Frontend Basics:** HTML5, CSS3, JS (ES6)
-* **Databases:** SQL Server, LocalDB
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
 
 ---
 
-## 📌 Projects
 
-🚧 *Coming Soon…* 🚧
-Stay tuned for some cool projects I’m currently working on.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafiq1a\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiq1a\&layout=compact\&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=shafiq1a\&theme=tokyonight)
-
----
 
 ## 📬 Connect with Me
 
