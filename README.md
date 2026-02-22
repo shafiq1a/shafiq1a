@@ -1,10 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Shafik%20Ahmed&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Building%20Scalable%20APIs%20%26%20Web%20Apps&descColor=8b949e&descAlignY=60&animation=fadeIn" width="100%"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -61,24 +55,7 @@ var shafik = new Developer
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/shafik-ahmed">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shafik-ahmed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shafik-ahmed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=shafik-ahmed&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" width="500"/>
-</a>
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
