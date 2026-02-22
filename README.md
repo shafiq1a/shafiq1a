@@ -1,6 +1,7 @@
 <div align="center">
-    
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Shafik%20Ahmed&fontSize=60&fontColor=fff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Building%20Scalable%20APIs%20%26%20Web%20Apps&descColor=cdd9e5&descAlignY=60&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Shafik%20Ahmed&fontSize=60&fontColor=fff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Building%20Scalable%20APIs%20%26%20Web%20Apps&descColor=cdd9e5&descAlignY=60&animation=fadeIn" width="100%"/> 
+
 </div>
 
 <div align="center">
