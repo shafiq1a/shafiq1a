@@ -75,11 +75,9 @@ var shafik = new Developer
 
 ## 🎯 Currently Learning
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![CQRS MediatR](https://img.shields.io/badge/CQRS_MediatR-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 ---
 
