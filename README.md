@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0f3460&height=200&section=header&text=Shafik%20Ahmed&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Building%20Scalable%20APIs%20%26%20Web%20Apps&descColor=8b949e&descAlignY=60&animation=fadeIn" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Shafik+Ahmed;.NET+%7C+C%23+%7C+ASP.NET+Core+Developer;Clean+Code+%7C+Scalable+APIs+%7C+EF+Core;Always+learning%2C+always+building+🚀)](https://git.io/typing-svg)
 
 </div>
@@ -49,7 +43,7 @@ var shafik = new Developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧰 Tools & IDEs
+### 🧰 Tools &amp; IDEs
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,16 +63,36 @@ var shafik = new Developer
 
 <div align="center">
 
-<a href="https://github.com/shafik-ahmed">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shafik-ahmed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shafik-ahmed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-</a>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shafik-ahmed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shafik-ahmed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=shafik-ahmed&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" width="500"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=shafik-ahmed&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" width="500"/>
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![CQRS](https://img.shields.io/badge/CQRS_%26_MediatR-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shafik-ahmed&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
 
 </div>
 
