@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Shafik%20Ahmed&fontSize=60&fontColor=fff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Building%20Scalable%20APIs%20%26%20Web%20Apps&descColor=cdd9e5&descAlignY=60&animation=fadeIn" width="100%"/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Shafik%20Ahmed&fontSize=60&fontColor=fff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Building%20Scalable%20APIs%20%26%20Web%20Apps&descColor=cdd9e5&descAlignY=60&animation=fadeIn)
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Shafik+Ahmed;.NET+%7C+C%23+%7C+ASP.NET+Core+Developer;Clean+Code+%7C+Scalable+APIs+%7C+EF+Core;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
