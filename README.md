@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 ```csharp
 var shafik = new Developer
@@ -18,33 +18,33 @@ var shafik = new Developer
     Passion    = "Building scalable, clean, and maintainable systems",
     Focus      = new[] { "ASP.NET Core", "REST APIs", "EF Core", "SQL Server" },
     Mindset    = "Clean Code > Clever Code",
-    Currently  = "Leveling up every single day"
+    Currently  = "Leveling up every single day 💪"
 };
 ```
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Backend**
+**⚙️ Backend**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Database**
+**🗄️ Database**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Frontend**
+**🎨 Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Tools and IDEs**
+**🧰 Tools and IDEs**
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -52,7 +52,7 @@ var shafik = new Developer
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**AI Tools**
+**🤖 AI Tools**
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -60,7 +60,7 @@ var shafik = new Developer
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -75,7 +75,7 @@ var shafik = new Developer
 
 ---
 
-## Currently Learning
+## 🎯 Currently Learning
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -85,19 +85,21 @@ var shafik = new Developer
 
 ---
 
-## Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiq1a&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
+
 </div>
 
 ---
 
-## Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiq1a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafik-ahmed)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafik12040@gmail.com)
 
 </div>
@@ -108,7 +110,7 @@ var shafik = new Developer
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
 
-**If you find my work helpful, consider giving a star to my repos!**
+**⭐ If you find my work helpful, consider giving a star to my repos!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shafiq1a&color=58a6ff&style=flat-square&label=Profile+Views)
 
