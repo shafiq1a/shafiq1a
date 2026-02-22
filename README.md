@@ -9,7 +9,6 @@
 ---
 
 ## About Me
-
 ```csharp
 var shafik = new Developer
 {
