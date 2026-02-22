@@ -9,6 +9,7 @@
 ---
 
 ## About Me
+
 ```csharp
 var shafik = new Developer
 {
@@ -63,12 +64,12 @@ var shafik = new Developer
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shafik-ahmed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shafik-ahmed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shafiq1a&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shafiq1a&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=shafik-ahmed&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" width="500"/>
+<img src="https://streak-stats.demolab.com?user=shafiq1a&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&dates=8b949e" width="500"/>
 
 </div>
 
@@ -87,7 +88,7 @@ var shafik = new Developer
 ## Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shafik-ahmed&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiq1a&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -96,7 +97,7 @@ var shafik = new Developer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafik-ahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiq1a)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafik12040@gmail.com)
 
 </div>
@@ -109,6 +110,6 @@ var shafik = new Developer
 
 **If you find my work helpful, consider giving a star to my repos!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=shafik-ahmed&color=58a6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=shafiq1a&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
